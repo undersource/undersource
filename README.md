@@ -56,7 +56,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,docker,github,html,js,linux,md,mysql,nodejs,py,react,ts,vscode&perline=14"/>
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,go,c,cpp,r,bash,md,latex,bootstrap,react,vue,vite,webpack,selenium,fastapi,django,laravel,wordpress,activitypub,mastodon,misskey,nodejs,sqlite,mysql,postgres,docker,kubernetes,nginx,git,linux,bsd,vim,neovim,vscode,github,stackoverflow,googlecloud,aws&perline=14"/>
     </a>
 </p>
 
