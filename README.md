@@ -15,33 +15,34 @@
 <div id="user-content-toc">
     <ul align="center">
         <summary>
-            <h2 style="display: inline-block">Confusion is part of Programming</h2>
+            <h2 style="display: inline-block">My Projects</h2>
         </summary>
     </ul>
 </div>
 
-- 🔭 I’m currently working at home
+* [TelegramShopBot](https://github.com/undersource/telegramshop-bot) - Telegram shop written in Aiogram
+* [MastodonGroupBot](https://github.com/undersource/mastodon-group-bot) - Mastodon group bot which reposts toots written in Golang
+* [TelegramShopBot](https://github.com/undersource/ministall) - Old shop of virtual goods with cryptocurrency payment system of Monero written in Django
+* [Torification](https://github.com/undersource/torification) - Utility for obfuscation of all traffic through Tor written in Bash
+* [NetWork](https://github.com/undersource/nw) - Utility for easy managing network services written in Bash
 
-- 🌱 I’m currently learning **everything**
-
-- ☁️ I've keen interest in **everything**
-
+<br>
 <p align="center">
     <table align="center">
         <tr border="none">
             <td width="50%" align="center">
-                <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=undersource&theme=dark&show_icons=true count_private=true"/>
+                <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=undersource&theme=dark&show_icons=true&count_private=true"/>
                 <br>
                 <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=undersource&theme=dark&hide_border=false" /> 
             </td>
             <td width="50%" align="center">
-                <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=undersource&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+                <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=undersource&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
             </td>
         </tr>
     </table>
     <div align=center>
         <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-            <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=undersource&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY"/>
+            <img align="center" src="https://github-profile-trophy.vercel.app/?username=undersource&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY"/>
         </a>
     </div>
 </p>
@@ -56,7 +57,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,go,c,cpp,r,bash,md,latex,regex,bootstrap,react,vue,vite,webpack,selenium,fastapi,django,laravel,wordpress,activitypub,mastodon,misskey,nodejs,sqlite,mysql,postgres,docker,kubernetes,nginx,git,linux,bsd,vim,neovim,vscode,github,stackoverflow,googlecloud,aws&perline=14"/>
+        <img src="https://skillicons.dev/icons?i=html,css,js,py,php,go,c,cpp,r,bash,md,latex,regex,selenium,fastapi,django,laravel,wordpress,activitypub,mastodon,misskey,sqlite,mysql,postgres,docker,kubernetes,nginx,git,linux,bsd,vim,neovim,vscode,github,stackoverflow&perline=20"/>
     </a>
 </p>
 
