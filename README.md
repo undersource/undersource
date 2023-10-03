@@ -22,7 +22,7 @@
 
 * [TelegramShopBot](https://github.com/undersource/telegramshop-bot) - Telegram shop written in Aiogram
 * [MastodonGroupBot](https://github.com/undersource/mastodon-group-bot) - Mastodon group bot which reposts toots written in Golang
-* [TelegramShopBot](https://github.com/undersource/ministall) - Old shop of virtual goods with cryptocurrency payment system of Monero written in Django
+* [MiniStall](https://github.com/undersource/ministall) - Old shop of virtual goods with cryptocurrency payment system of Monero written in Django
 * [Torification](https://github.com/undersource/torification) - Utility for obfuscation of all traffic through Tor written in Bash
 * [NetWork](https://github.com/undersource/nw) - Utility for easy managing network services written in Bash
 
