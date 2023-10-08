@@ -27,6 +27,7 @@
 * [NotifyManager](https://github.com/undersource/notifymanager) - CLI notification manager written in C++
 * [Torification](https://github.com/undersource/torification) - Utility for obfuscation of all traffic through Tor written in Bash
 * [NetWork](https://github.com/undersource/nw) - Utility for easy managing network services written in Bash
+* [Linguistics](https://github.com/undersource/linguistics) - CLI util for learning foreign words written in Bash
 
 <br>
 <p align="center">
